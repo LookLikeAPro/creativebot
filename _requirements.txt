@@ -1,0 +1,4 @@
+beautifulsoup4==4.5.3
+Flask==0.12
+markovify==0.5.4
+tweepy==3.5.0
